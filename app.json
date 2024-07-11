@@ -47,6 +47,16 @@
       "required": false,
       "value": ""
     },
+    "OWNER_NUMBER": {
+      "description": "Owner Number",
+      "required": true,
+      "value": "2348100835767"
+    },
+    "PREFIX": {
+      "description": "bot prefix ",
+      "required": true,
+      "value": "*"
+    },
     "REJECT_CALL": {
       "description": "make it true if you want to reject call",
       "required": false,
