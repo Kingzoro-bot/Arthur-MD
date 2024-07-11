@@ -135,7 +135,7 @@ let mode = ethix.public ? 'public' : 'private';
                       {
                         "header":"",
                         "title":"👨‍👨‍👧‍👧ɢʀᴏᴜᴘ ᴍᴇɴᴜ",
-                        "description":"🫂𝐅𝚵𝚫𝚻𝐔𝚪𝚵 𝚻𝚮𝚫𝚻 𝚫𝚪𝚵 𝚯𝚴𝐋𝐘 𝚫𝛁𝚰𝐋𝚫𝚩𝐋𝚵 𝐅𝚯𝚪 𝐆𝚪𝚯𝐔𝚸🫂",
+                        "description":"🥵𝐅𝚵𝚫𝚻𝐔𝚪𝚵 𝚻𝚮𝚫𝚻 𝚫𝚪𝚵 𝚯𝚴𝐋𝐘 𝚫𝛁𝚰𝐋𝚫𝚩𝐋𝚵 𝐅𝚯𝚪 𝐆𝚪𝚯𝐔𝚸🥵",
                         "id":"Group Menu"
                       },
                       {
@@ -156,19 +156,7 @@ let mode = ethix.public ? 'public' : 'private';
                         "description":"😎𝐅𝚵𝚫𝚻𝐔𝚪𝚵 𝚻𝚮𝚫𝚻 𝚫𝚪𝚵 𝚯𝚴𝐋𝐘 𝐅𝚯𝚪 𝚳𝐘 𝚮𝚫𝚴𝐃𝐒𝚯𝚳𝚵 𝚯𝐖𝚴𝚵𝚪👨‍💼",
                         "id":"Owner Menu"
                       },
-                     {
-                        "header":"",
-                        "title":"👨‍💻 ᴏᴡɴᴇʀ ᴍᴇɴᴜ",
-                        "description":"🥵𝙉𝙎𝙁𝙒 𝙈𝙀𝙉𝙐🥵",
-                        "id":"Nsfw Menu"
-                      },
-                     {
-                        "header":"",
-                        "title":"👨‍💻 ᴏᴡɴᴇʀ ᴍᴇɴᴜ",
-                        "description":"🌸𝗔𝗡𝗜𝗠𝗘 𝗠𝗘𝗡𝗨🌸",
-                        "id":"Anime Menu"
-                      },
-                     {
+                      {
                         "header":"",
                         "title":"✨ ᴀɪ ᴍᴇɴᴜ",
                         "description":"💫 𝐒𝚮𝚯𝐖 𝚳𝚵 𝚫𝚰 𝚳𝚵𝚴𝐔 🎇",
@@ -327,42 +315,7 @@ let mode = ethix.public ? 'public' : 'private';
 ┃❄️ ${prefix}𝙸𝚗𝚜𝚝𝚊𝚂𝚝𝚊𝚕𝚔
 ┃❄️ ${prefix}𝙶𝚒𝚝𝚑𝚞𝚋𝚂𝚝𝚊𝚕𝚔
 ╰━━━━━━━━━━━━━━━⪼
-╭━❮ 𝐀𝐍𝐈𝐌𝐄 ❯━╮
-┃❄️ ${prefix}kenkaneki
-┃❄️ ${prefix}akira
-┃❄️ ${prefix}anna
-┃❄️ ${prefix}asuna
-┃❄️ ${prefix}boruto
-┃❄️ ${prefix}chiho
-┃❄️ ${prefix}eba
-┃❄️ ${prefix}elaina
-┃❄️ ${prefix}erza
-┃❄️ ${prefix}inori
-┃❄️ ${prefix}itachi
-┃❄️ ${prefix}itori
-┃❄️ ${prefix}kaga
-┃❄️ ${prefix}kaori
-┃❄️ ${prefix}kotori
-┃❄️ ${prefix}kurumi
-┃❄️ ${prefix}miku
-┃❄️ ${prefix}naruto
-┃❄️ ${prefix}nezuko
-┃❄️ ${prefix}sakura
-┃❄️ ${prefix}sasuke
-┃❄️ ${prefix}husbu
-┃❄️ ${prefix}shota
-╰━━━━━━━━━━━━━━━⪼
-╭━❮ 𝖭𝖲𝖥𝖶 ❯━╮
-┃❄️ ${prefix}DICK
-┃❄️ ${prefix}PUSSY
-┃❄️ ${prefix}FINGERING
-┃❄️ ${prefix}DILDO
-┃❄️ ${prefix}LESBIAN
-┃❄️ ${prefix}YURI
-┃❄️ ${prefix}ASS
-┃❄️ ${prefix}BLOWJOB
-┃❄️ ${prefix}FUCK
-╰━━━━━━━━━━━━━━━⪼ `;
+   `;
         let fgg = {
             key: {
                 fromMe: false,
@@ -668,89 +621,7 @@ await Matrix.sendMessage(m.from, {
   quoted: m
 });
 }
- 
-      if (selectedId == "Anime Menu") {
-     const str =`╭───❮ *s ᴇ ʀ ᴠ ᴇ ʀ* ❯
-│➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBytes)}
-│➥ 𝙵𝚁𝙴𝙴 𝚁𝙰𝙼: ${formatBytes(freeMemoryBytes)}
-╰━━━━━━━━━━━━━━━➥
-╭━❮ 𝐀𝐍𝐈𝐌𝐄 ❯━╮
-┃❄️ ${prefix}kenkaneki
-┃❄️ ${prefix}akira
-┃❄️ ${prefix}anna
-┃❄️ ${prefix}asuna
-┃❄️ ${prefix}boruto
-┃❄️ ${prefix}chiho
-┃❄️ ${prefix}eba
-┃❄️ ${prefix}elaina
-┃❄️ ${prefix}erza
-┃❄️ ${prefix}inori
-┃❄️ ${prefix}itachi
-┃❄️ ${prefix}itori
-┃❄️ ${prefix}kaga
-┃❄️ ${prefix}kaori
-┃❄️ ${prefix}kotori
-┃❄️ ${prefix}kurumi
-┃❄️ ${prefix}miku
-┃❄️ ${prefix}naruto
-┃❄️ ${prefix}nezuko
-┃❄️ ${prefix}sakura
-┃❄️ ${prefix}sasuke
-┃❄️ ${prefix}husbu
-┃❄️ ${prefix}shota
-╰━━━━━━━━━━━━━━━⪼`
-await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/arthur.jpg'), 
-  caption: str, 
-  contextInfo: {
-                  mentionedJid: [m.sender], 
-                  forwardingScore: 999,
-                  isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "Arthur-MD",
-                  serverMessageId: 143
-                }
-              }
-}, {
-  quoted: m
-});
-}
-
-   if (selectedId == "Nsfw Menu") {
-     const str =`╭───❮ *s ᴇ ʀ ᴠ ᴇ ʀ* ❯
-│➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBytes)}
-│➥ 𝙵𝚁𝙴𝙴 𝚁𝙰𝙼: ${formatBytes(freeMemoryBytes)}
-╰━━━━━━━━━━━━━━━➥
-╭━❮ 𝖭𝖲𝖥𝖶 ❯━╮
-┃❄️ ${prefix}DICK
-┃❄️ ${prefix}PUSSY
-┃❄️ ${prefix}FINGERING
-┃❄️ ${prefix}DILDO
-┃❄️ ${prefix}LESBIAN
-┃❄️ ${prefix}YURI
-┃❄️ ${prefix}ASS
-┃❄️ ${prefix}BLOWJOB
-┃❄️ ${prefix}FUCK
-╰━━━━━━━━━━━━━━━⪼`
-await Matrix.sendMessage(m.from, {
-  image: fs.readFileSync('./src/arthur.jpg'), 
-  caption: str, 
-  contextInfo: {
-                  mentionedJid: [m.sender], 
-                  forwardingScore: 999,
-                  isForwarded: true,
-                forwardedNewsletterMessageInfo: {
-                  newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "Arthur-MD",
-                  serverMessageId: 143
-                }
-              }
-}, {
-  quoted: m
-});
-}
-  
+   
    if (selectedId == "Converter Menu") {
      const str =`╭───❮ *s ᴇ ʀ ᴠ ᴇ ʀ* ❯
 │➥ 𝚃𝙾𝚃𝙰𝙻 𝚁𝙰𝙼: ${formatBytes(totalMemoryBytes)}
